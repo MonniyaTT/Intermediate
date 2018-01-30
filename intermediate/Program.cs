@@ -10,6 +10,12 @@ namespace intermediate
     {
         static void Main(string[] args)
         {
+            //Stopwatch s = new Stopwatch();
+            //s.stopwatch();
+            Stack st = new Stack();
+            st.InsertStack();
+
+
         }
     }
 }
